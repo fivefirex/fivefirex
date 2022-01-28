@@ -1,5 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+This+is+FiveFireX.;你好！这里是FiveFireX。&center=true&size=30">
-**↓↓下滑此页，下盘棋吧↓↓**
+↓↓下滑此页，下盘棋吧↓↓
 
 ## 联系方式
 
