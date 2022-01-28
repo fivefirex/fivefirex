@@ -7,4 +7,8 @@
   <a href='mailto:1287233558@qq.com'>
     <img border='0' src='https://img.shields.io/badge/email-%E9%82%AE%E7%AE%B1-green' />
   </a>
+  <a href='https://github.com/fivefirex'>
+    <img border='0' src='https://img.shields.io/badge/github-github-red' />
+  </a>
+  <img src='https://visitor-badge.glitch.me/badge?page_id=fivefirexgithub&left_color=grey&right_color=orange' />
 </span>
